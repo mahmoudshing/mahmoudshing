@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
 Hi there, I am Mahmoud Abdelmegeed Abdelkader 👋
 </h1>
 
