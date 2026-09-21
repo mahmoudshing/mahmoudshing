@@ -50,6 +50,17 @@ Hi there, I am Mahmoud Abdelmegeed Abdelkader 👋
 ![](https://streak-stats.demolab.com/?user=mahmoudshing\&theme=transparent\&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudshing\&theme=transparent\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
+# 📚 Favourite Subjects:
+
+<p align="center">
+  📐 <b>Calculus</b> &nbsp; • &nbsp;
+  📊 <b>Statistics</b> &nbsp; • &nbsp;
+  🔢 <b>Differential Equations</b> &nbsp; • &nbsp;
+  🧮 <b>Linear Algebra</b> &nbsp; • &nbsp;
+  🤖 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
+  🧠 <b>Data Structures & OOP</b>
+</p>
+
 # 🚀 Currently Learning:
 
 * 📈 Advanced Data Analysis & EDA
