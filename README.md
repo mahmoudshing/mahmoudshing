@@ -47,7 +47,6 @@
 * 📊 Advanced Data Analysis & EDA
 * 🤖 Machine Learning & AI
 * 🧠 Deep Learning
-* 💬 NLP
 * 👁️ Computer Vision
 * 🗄️ Advanced SQL
 
