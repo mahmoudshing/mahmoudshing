@@ -44,10 +44,13 @@
 
 # 🚀 Currently Learning:
 
-* 📊 Advanced Data Analysis & EDA
+* 📈 Advanced Data Analysis & EDA
+* 📊 Power BI & Data Visualization
 * 🤖 Machine Learning & AI
 * 🧠 Deep Learning
-* 👁️ Computer Vision
 * 🗄️ Advanced SQL
+* 🌐 Computer Networks
+* 📐 Vector Calculus
+* 🐧 Operating Systems
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
