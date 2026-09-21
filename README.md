@@ -58,7 +58,8 @@ Hi there, I am Mahmoud Abdelmegeed Abdelkader 👋
   🔢 <b>Differential Equations</b> &nbsp; • &nbsp;
   🧮 <b>Linear Algebra</b> &nbsp; • &nbsp;
   🤖 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
-  🧠 <b>Data Structures & OOP</b>
+  🧠 <b>Data Structures</b>
+  
 </p>
 
 # 🚀 Currently Learning:
