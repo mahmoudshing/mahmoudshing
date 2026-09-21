@@ -8,16 +8,18 @@ Hi there, I am Mahmoud Abdelmegeed Abdelkader 👋
   </a>
 </p>
 
-# 💫 About Me:
 
-🎓 Junior Computer Science Student at **Ain Shams University**<br>
-🤖 Currently learning and specializing in **Data Science & AI**<br>
-🧠 Passionate about **Machine Learning, Data Science, Statistics & Artificial Intelligence**<br>
-📊 Interested in **Data Analysis, Data Visualization & SQL**<br>
-💻 Also passionate about **.NET / C# and Software Development**<br>
-🐧 Comfortable with **Linux, Git & GitHub**<br>
-🚀 Always learning, building projects, and improving my problem-solving skills
+## 💫 About Me
 
+I'm **Mahmoud Abdelmegeed Abdelkader**, a Junior Computer Science student at **Ain Shams University** with a growing focus on **Data Science & AI**.
+
+I enjoy understanding how data, mathematics, and algorithms come together to solve real-world problems. I'm particularly interested in **Machine Learning, Statistics, Data Analysis, Data Visualization, and Artificial Intelligence**.
+
+My current toolkit includes **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and Streamlit**. I also have a strong interest in **.NET / C# and Software Development**, supported by my foundation in **Data Structures, OOP, and problem solving**.
+
+I'm comfortable working with **Linux, Git, and GitHub**, and most importantly, I enjoy learning by building — from experimenting with data to developing complete projects.
+
+🚀 **Always learning. Always building. Always improving.**
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/mahmoud.abdelmegeed.2025?locale=ar_AR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mahmoud-abdelmegeed-b77663367/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mahmoudabdelmegeed21@gmail.com)
