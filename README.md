@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Junior%20Computer%20Science%20Student;Ain%20Shams%20University;Aspiring%20Data%20Scientist%20%26%20AI%20Engineer;Passionate%20about%20Machine%20Learning;Python%20%7C%20SQL%20%7C%20.NET%20%7C%20Linux&font=Fira%20Code&center=true&width=650&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
 # 💫 About Me:
 
 🎓 Junior Computer Science Student at **Ain Shams University**<br>
