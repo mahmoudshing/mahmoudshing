@@ -13,8 +13,7 @@ Hi there, I am Mahmoud Abdelmegeed Abdelkader 👋
 
 
 I'm **Mahmoud Abdelmegeed Abdelkader**, a Junior Computer Science student at **Ain Shams University**, currently specializing in **Data Science & AI**. I'm passionate about turning data, mathematics, and algorithms into practical solutions, with a strong interest in **Machine Learning, Data Science, Statistics, Artificial Intelligence, Data Analysis, and Data Visualization**,My current toolkit includes **Python, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, and Streamlit**. I also have a strong interest in **.NET / C# and Software Development**, supported by a solid foundation in **Data Structures, OOP, and problem 
-solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy learning new technologies by building projects and solving real-world problems. 
-🚀 I'm always learning, always building, and always looking for the next challenge.
+solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy learning new technologies by building projects and solving real-world problems.  I'm always learning, always building, and always looking for the next challenge 🚀.
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/mahmoud.abdelmegeed.2025?locale=ar_AR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mahmoud-abdelmegeed-b77663367/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mahmoudabdelmegeed21@gmail.com)
