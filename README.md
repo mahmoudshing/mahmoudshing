@@ -48,9 +48,7 @@ solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy 
   🔢 <b>Differential Equations</b> &nbsp; • &nbsp;
   🧮 <b>Linear Algebra</b> &nbsp; • &nbsp;
   🤖 <b>Artificial Intelligence</b> &nbsp; • &nbsp;
-  🧠 <b>Data Structures</b> &nbsp; 
-  
-  
+  🧠 <b>Data Structures</b> &nbsp;
 </p>
 <br>
 
