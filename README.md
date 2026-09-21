@@ -40,12 +40,6 @@ solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy 
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-%2300599C.svg?style=for-the-badge\&logo=python\&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23013243.svg?style=for-the-badge\&logo=pandas\&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23E97627.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=mahmoudshing\&theme=transparent\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mahmoudshing\&theme=transparent\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudshing\&theme=transparent\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
 # 📚 Favourite Subjects:
 
 <p align="center">
