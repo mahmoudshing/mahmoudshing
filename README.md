@@ -52,6 +52,16 @@ solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy 
 </p>
 <br>
 
+## 🎯 Current Focus
+
+- 📊 **Data Science:** Deepening my skills in `Data Analysis`, `EDA`, `SQL`, and `Data Visualization`.
+
+- 🤖 **AI & Machine Learning:** Strengthening my knowledge of `Machine Learning`, `Deep Learning`, and real-world AI applications.
+
+- 📈 **Data Visualization:** Currently learning `Power BI` to create clear, interactive dashboards.
+
+- 🚀 **Project Building:** Applying what I learn by building practical `Data Science & AI` projects.
+- <br>
 # 🚀 Currently Learning:
 
 * 📈 Advanced Data Analysis & EDA
