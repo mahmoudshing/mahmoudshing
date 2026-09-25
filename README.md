@@ -61,7 +61,7 @@ solving**, I'm comfortable working with **Linux, Git, and GitHub**, and I enjoy 
 - 📈 **Data Visualization:** Currently learning `Power BI` to create clear, interactive dashboards.
 
 - 🚀 **Project Building:** Applying what I learn by building practical `Data Science & AI` projects.
-- <br>
+ <br>
 # 🚀 Currently Learning:
 
 * 📈 Advanced Data Analysis & EDA
